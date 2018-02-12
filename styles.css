@@ -17,6 +17,16 @@ h2 {
 	margin-left:-10px;
 }
 
+.content p{
+	float:left; 
+	width:60em;
+	text-indent: 30px;
+	margin: 3px 0;
+		font-family: "Times New Roman", Times, serif;
+		font-size: 1.1em;
+	}
+
+
 
 .sidenav {
     height: 100%; /* Full-height: remove this if you want "auto" height */
