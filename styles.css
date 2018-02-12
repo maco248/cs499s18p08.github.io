@@ -17,20 +17,17 @@ h2 {
 	margin-left:-10px;
 }
 
-<<<<<<< HEAD
 .content p{
 	float:left; 
 	width:60em;
 	text-indent: 30px;
 	margin: 3px 0;
-		font-family: "Times New Roman", Times, serif;
-		font-size: 1.1em;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1.1em;
 	}
 
 
 
-=======
->>>>>>> e6ca1504cb0a0bcc118709e3b9a56e28bfed6aae
 .sidenav {
     height: 100%; /* Full-height: remove this if you want "auto" height */
     width: 160px; /* Set the width of the sidebar */
